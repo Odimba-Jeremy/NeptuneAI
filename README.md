@@ -1,2 +1,0 @@
-# NeptuneAI
-Ai
